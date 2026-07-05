@@ -8,7 +8,7 @@ Icons
 Joomla uses free [FontAwesome](https://fontawesome.com/search) icons,
 which are implemented as [CSS pseudo-elements](https://docs.fontawesome.com/web/add-icons/pseudo-elements)
 
-The list of available icons can be found in media/templates/administrator/atum/css/vendor/fontawesome-free.css
+The list of available icons can be found in media/templates/administrator/atum/css/vendor/fontawesome-free/fontawesome.css
 
 The subset of FontAwesome icons used internally within Joomla is designated with the prefix "icon-" (e.g., "icon-calendar", "icon-file", etc.)
 This is a remnant of the old coding style of FontAwesome; its latest versions use the "fa-" prefix, but Joomla is keeping the old prefix for backward compatibility.
